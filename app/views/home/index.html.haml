@@ -1,6 +1,20 @@
+%h1 Hack4Change
+%p Use this app to learn more about how economic factors in Nashville's districts affect the distribution of public resources.
+
 #wrapper
-  %h1 Welcome to Undrservd
-  %p Use this app to learn more about how economic factors in Nashville's districts affect the distribution of public resources.
+  #leftcolumn
+    %select#pins
+      %option(data-id='0') Art in Public Places
+      %option(data-id='1') Beer Permit Locations
+      %option(data-id='2') Building Permits
+      %option(data-id='3') Fire Stations
+      %option(data-id='4') Historic Markers
+      %option(data-id='5') Metro Public Art Collection
+      %option(data-id='6') Metro Public Wi-Fi Locations
+      %option(data-id='7') Metro Transit Authority Bus Stops
+      %option(data-id='8') Parks Locations
+      %option(data-id='9') Police Precincts
+      %option(data-id='10') Property Standards Violations
   #map
 
 =javascript_include_tag "https://maps.googleapis.com/maps/api/js?key=AIzaSyBEkfjUXM6kVXdxgJA21r1OH0hTuZkL75U&sensor=true"

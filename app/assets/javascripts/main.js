@@ -15,7 +15,7 @@
   function initMap(lat, lng, zoom){
     var mapOptions = {center: new google.maps.LatLng(lat, lng), zoom: zoom, mapTypeId: google.maps.MapTypeId.ROADMAP};
     map = new google.maps.Map(document.getElementById('map'), mapOptions);
-    var kml = new google.maps.KmlLayer('https://data.nashville.gov/api/geospatial/m4q4-q7tc?method=export&format=KML');
+    var kml = new google.maps.KmlLayer('https://data.nashville.gov/api/geospatial/m4q4-q7tc?method=export&format=KML', {preserveViewport: true});
     kml.setMap(map);
   }
 

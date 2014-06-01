@@ -6,6 +6,7 @@
 
   var map;
   var markers = [];
+  var legend
 
   function initialize(){
     initMap(36.1667, -86.7833, 11);
@@ -17,6 +18,7 @@
     map = new google.maps.Map(document.getElementById('map'), mapOptions);
     var kml = new google.maps.KmlLayer('https://data.nashville.gov/api/geospatial/m4q4-q7tc?method=export&format=KML', {preserveViewport: true});
     kml.setMap(map);
+    displayLegend();
   }
 
   function removeCurrentPins(){
@@ -54,6 +56,10 @@
     var position = new google.maps.LatLng(lat, lng, title);
     var marker = new google.maps.Marker({map:map, position:position, title:title});
     markers.push(marker);
+  }
+
+  function displayLegend(){
+    map.controls[google.maps.ControlPosition.BOTTOM].push(document.getElementById('legend'));
   }
 
 })();

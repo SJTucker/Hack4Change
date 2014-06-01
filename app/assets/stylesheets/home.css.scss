@@ -4,6 +4,9 @@
 
 @import url(http://fonts.googleapis.com/css?family=Open+Sans);
 
+$low-income: #AAAAAA;
+$high-income: #00FF00;
+
 #leftcolumn {
   width: 20%;
   height: 600px;
@@ -28,4 +31,31 @@ h1, h3 {
   width: 80%;
   height: 600px;
   float: left;
+}
+
+#legend {
+  height: 10%;
+  width: 50%;
+  background-color: white;
+  padding: 10px;
+  padding-top: 5px;
+  padding-bottom: 0px;
+  margin: 10px;
+  #income-range{
+    margin: auto;
+    span {
+      font-size: 1.2em;
+      margin: 10%;
+    }
+  }
+}
+
+#colors-range{
+  width: 80%;
+  height: 10px;
+  margin: auto;
+  background: -webkit-linear-gradient(left, $low-income , $high-income); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right,  $low-income , $high-income); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, $low-income , $high-income); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right,  $low-income , $high-income); /* Standard syntax */
 }

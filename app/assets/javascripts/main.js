@@ -16,7 +16,7 @@
   function initMap(lat, lng, zoom){
     var mapOptions = {center: new google.maps.LatLng(lat, lng), zoom: zoom, mapTypeId: google.maps.MapTypeId.ROADMAP};
     map = new google.maps.Map(document.getElementById('map'), mapOptions);
-    var kml = new google.maps.KmlLayer('https://data.nashville.gov/api/geospatial/m4q4-q7tc?method=export&format=KML', {preserveViewport: true});
+    var kml = new google.maps.KmlLayer('https://www.dropbox.com/meta_dl/eyJzdWJfcGF0aCI6ICIiLCAidGVzdF9saW5rIjogZmFsc2UsICJzZXJ2ZXIiOiAiZGwuZHJvcGJveHVzZXJjb250ZW50LmNvbSIsICJpdGVtX2lkIjogbnVsbCwgImlzX2RpciI6IGZhbHNlLCAidGtleSI6ICJleWpkaHRmMGRxcjQ1anoifQ/AAIhhWdAb3DzkDkqd6OQ6qcu8trr6bbM0OaCtWvYxU-FvQ?dl=1', {preserveViewport: true});
     kml.setMap(map);
     displayLegend();
   }

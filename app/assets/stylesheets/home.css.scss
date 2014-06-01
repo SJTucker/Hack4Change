@@ -44,14 +44,18 @@ h1, h3 {
   border-radius: 40px;
   #income-range{
     margin: auto;
-    span {
+    width: 80%;
+    .money {
+      text-align: center;
+      width: 25%;
       font-size: 1.2em;
-      margin: 10%;
+      float: left;
     }
   }
 }
 
 #colors-range{
+  clear: left;
   width: 80%;
   height: 10px;
   margin: auto;

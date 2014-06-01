@@ -1,0 +1,31 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+#leftcolumn {
+  width: 20%;
+  height: 600px;
+  float: left;
+}
+
+#wrapper {
+  width: 100%;
+}
+
+h1, h3, p {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h3 {
+  margin: 0;
+}
+
+#map {
+  margin: auto;
+  width: 80%;
+  height: 600px;
+  float: left;
+}

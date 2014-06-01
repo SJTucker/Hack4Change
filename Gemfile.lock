@@ -130,6 +130,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activerecord
   activerecord-postgresql-adapter
   coffee-rails (~> 4.0.0)
   haml-rails

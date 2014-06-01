@@ -6,7 +6,7 @@
 
   var map;
   var markers = [];
-  var legend
+  var icon_number = 0;
 
   function initialize(){
     initMap(36.1667, -86.7833, 11);
@@ -33,6 +33,7 @@
     var index = $('#pins').find(':selected').attr('data-id');
     var pinsetUrls = ['dqkw-tj5j.json', '3wb6-xy3j.json', '3h5w-q8b7.json', 'frq9-a5iv.json', 'vk65-u7my.json', 'eviu-nxp6.json', '4ugp-s85t.json', 'vfe9-k7vc.json', '74d7-b74t.json', 'y5ik-ut5s.json', '479w-kw2x.json'];
     var url = "http://data.nashville.gov/resource/" + pinsetUrls[index];
+    icon_number = index;
     $.getJSON(url, pinData);
   }
 
@@ -54,7 +55,7 @@
 
   function addMarker(lat, lng, title){
     var position = new google.maps.LatLng(lat, lng, title);
-    var marker = new google.maps.Marker({map:map, position:position, title:title});
+    var marker = new google.maps.Marker({map:map, position:position, title:title, icon:'/assets/icons/icon'+icon_number+'.png'});
     markers.push(marker);
   }
 

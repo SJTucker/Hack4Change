@@ -39,7 +39,7 @@ end
 #########colors array########
 @district_colors = []
 @corrected_district_incomes.each do |income|
-  g = (255 * ((income.to_f-20000)/60000)).floor.to_s(16)
+  g = (255 * (income.to_f/100000)).floor.to_s(16)
   color_string = "7f00" + g + "00"
   @district_colors << color_string
 end
@@ -48,7 +48,11 @@ end
 
 ########changing color fills in document########
 @scanned_colors.each_with_index do |color, i|
-  read_file[color] = "<color>" + @district_colors[(i/4).floor].to_s + "</color>"
+  if i%4 == 3
+    read_file[color] = "<color>7f000000</color>"
+  else
+    read_file[color] = "<color>" + @district_colors[(i/4).floor].to_s + "</color>"
+  end
 end
 
 File.open('districts.kml', 'w') do  |file| 

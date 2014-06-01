@@ -1,3 +1,6 @@
+require "active_record"
+require "sqlite3"
+
 class Medianincome < ActiveRecord::Base
   def self.incomes
     @maleincomes = Medianincome.where(race: "ALL", gender: "MALE").to_a

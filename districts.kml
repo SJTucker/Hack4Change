@@ -44,21 +44,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f006600</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f006600</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7fdd0000</color>
+               <color>7f006600</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f006600</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -109,21 +109,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f005300</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f005300</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7f0000dd</color>
+               <color>7f005300</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f005300</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -174,21 +174,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f005600</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f005600</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f005600</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f005600</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -239,21 +239,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f005200</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f005200</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7f00dd00</color>
+               <color>7f005200</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f005200</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -304,21 +304,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f005500</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f005500</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f005500</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f005500</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -376,21 +376,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f005200</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f005200</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7fdd00dd</color>
+               <color>7f005200</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f005200</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -441,21 +441,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f005e00</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f005e00</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f005e00</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f005e00</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -506,21 +506,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f006100</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f006100</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f006100</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f006100</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -571,21 +571,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f004e00</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f004e00</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f004e00</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f004e00</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -636,21 +636,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f008600</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f008600</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f008600</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f008600</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -701,21 +701,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f00ab00</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f00ab00</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f00ab00</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f00ab00</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -766,21 +766,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f004600</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f004600</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f004600</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f004600</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -831,21 +831,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f006b00</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f006b00</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f006b00</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f006b00</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -896,21 +896,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f005400</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f005400</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f005400</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f005400</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -961,21 +961,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f005500</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f005500</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f005500</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f005500</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -1026,21 +1026,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f005700</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f005700</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f005700</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f005700</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -1091,21 +1091,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f005e00</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f005e00</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f005e00</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f005e00</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -1156,21 +1156,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f008500</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f008500</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f008500</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f008500</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -1221,21 +1221,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f005600</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f005600</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f005600</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f005600</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -1286,21 +1286,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f006000</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f006000</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f006000</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f006000</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -1351,21 +1351,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f006100</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f006100</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f006100</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f006100</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -1416,21 +1416,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f005100</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f005100</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f005100</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f005100</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -1481,21 +1481,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f006300</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f006300</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f006300</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f006300</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -1546,21 +1546,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f005200</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f005200</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f005200</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f005200</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -1611,21 +1611,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f005100</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f005100</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f005100</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f005100</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -1676,21 +1676,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f006c00</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f006c00</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f006c00</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f006c00</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -1741,21 +1741,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f006400</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f006400</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f006400</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f006400</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -1806,21 +1806,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f004b00</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f004b00</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f004b00</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f004b00</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -1871,21 +1871,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f008a00</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f008a00</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f008a00</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f008a00</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -1936,21 +1936,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f005e00</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f005e00</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f005e00</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f005e00</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -2001,21 +2001,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f006900</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f006900</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f006900</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f006900</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -2066,21 +2066,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f00a300</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f00a300</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f00a300</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f00a300</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -2131,21 +2131,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f005b00</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f005b00</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f005b00</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f005b00</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -2203,21 +2203,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f00c000</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f00c000</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f00c000</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f00c000</color>
                <width>1</width>
             </LineStyle>
          </Style>
@@ -2268,21 +2268,21 @@
          </LookAt>
          <Style>
             <IconStyle>
-               <color>00ffffff</color>
+               <color>7f009600</color>
                <scale>0.4</scale>
                <Icon>
                   <href>http://icons.opengeo.org/markers/icon-poly.1.png</href>
                </Icon>
             </IconStyle>
             <LabelStyle>
-               <color>00ffffff</color>
+               <color>7f009600</color>
             </LabelStyle>
             <PolyStyle>
-               <color>7faaaaaa</color>
+               <color>7f009600</color>
                <outline>1</outline>
             </PolyStyle>
             <LineStyle>
-               <color>7f000000</color>
+               <color>7f009600</color>
                <width>1</width>
             </LineStyle>
          </Style>

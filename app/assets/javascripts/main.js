@@ -6,6 +6,7 @@
 
   var map;
   var markers = [];
+  var legend
 
   function initialize(){
     initMap(36.1667, -86.7833, 11);
@@ -17,6 +18,7 @@
     map = new google.maps.Map(document.getElementById('map'), mapOptions);
     var kml = new google.maps.KmlLayer('https://www.dropbox.com/meta_dl/eyJzdWJfcGF0aCI6ICIiLCAidGVzdF9saW5rIjogZmFsc2UsICJzZXJ2ZXIiOiAiZGwuZHJvcGJveHVzZXJjb250ZW50LmNvbSIsICJpdGVtX2lkIjogbnVsbCwgImlzX2RpciI6IGZhbHNlLCAidGtleSI6ICJleWpkaHRmMGRxcjQ1anoifQ/AAIhhWdAb3DzkDkqd6OQ6qcu8trr6bbM0OaCtWvYxU-FvQ?dl=1', {preserveViewport: true});
     kml.setMap(map);
+    displayLegend();
   }
 
   function removeCurrentPins(){
@@ -54,6 +56,10 @@
     var position = new google.maps.LatLng(lat, lng, title);
     var marker = new google.maps.Marker({map:map, position:position, title:title});
     markers.push(marker);
+  }
+
+  function displayLegend(){
+    map.controls[google.maps.ControlPosition.BOTTOM].push(document.getElementById('legend'));
   }
 
 })();

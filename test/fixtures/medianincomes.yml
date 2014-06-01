@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  district: MyString
+  race: MyString
+  income: 1
+  gender: MyString
+
+two:
+  district: MyString
+  race: MyString
+  income: 1
+  gender: MyString

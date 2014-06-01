@@ -39,7 +39,7 @@ end
 #########colors array########
 @district_colors = []
 @corrected_district_incomes.each do |income|
-  g = (255 * (income.to_f/100000)).floor.to_s(16)
+  g = (255 * ((income.to_f-20000)/60000)).floor.to_s(16)
   color_string = "7f00" + g + "00"
   @district_colors << color_string
 end
